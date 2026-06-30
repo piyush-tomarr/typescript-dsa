@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,8 +15,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
