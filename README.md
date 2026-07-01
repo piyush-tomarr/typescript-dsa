@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
