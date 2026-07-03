@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0238-product-of-array-except-self) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0155-min-stack) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
