@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
+| [1929-concatenation-of-array](https://github.com/piyush-tomarr/typescript-dsa/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/piyush-tomarr/typescript-dsa/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
