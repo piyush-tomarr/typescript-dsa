@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/piyush-tomarr/typescript-dsa/tree/master/1929-concatenation-of-array) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
