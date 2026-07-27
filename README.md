@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/piyush-tomarr/typescript-dsa/tree/master/1768-merge-strings-alternately) |
 ## Stack
@@ -135,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/piyush-tomarr/typescript-dsa/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
